@@ -18,7 +18,7 @@ active proctype Producer(){
     c++
     buffer[pos] = event
     pos++
-    signal(notEmpty)
+    signal(notEmpty) 
   od
 }
 
